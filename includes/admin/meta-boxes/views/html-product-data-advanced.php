@@ -23,6 +23,7 @@
 				'type'              => 'number',
 				'custom_attributes' => array(
 					'step' 	=> '1',
+					'min'	=> '1'
 				),
 			) );
 		?>
